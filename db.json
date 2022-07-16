@@ -202,13 +202,6 @@
       "FarmName": "FARM NAME 20200028",
       "ActiveDate": "2020-03-06T00:00:00",
       "Address": "FARM ADDRESS DEMO"
-    },
-    {
-      "Id": 30,
-      "FarmNo": "999FFMM20200029",
-      "FarmName": "FARM NAME 20200029",
-      "ActiveDate": "2020-02-04T00:00:00",
-      "Address": "FARM ADDRESS DEMO"
     }
   ]
 }
